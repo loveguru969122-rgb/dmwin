@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Sat, 30 Nov 2024 19:01:55 at https://dmwin0.com/#/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O "/storage/emulated/0/HTTrack/Websites/DM WIN" -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://dmwin0.com/#/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:26	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://dmwin0.com/robots.txt (from primary/primary)
+19:02:29	Warning: 	Link https://dmwin0.com/ not scanned (follow robots meta tag)
+19:02:30	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+19:02:30	Warning: 	Retry after error -5 (Unable to get server's address: No address associated with hostname) at link primary/ (from primary/primary)
+19:02:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/ (from primary/primary)
+19:02:31	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 8 links scanned, 3 files written (627979 bytes overall) [209757 bytes received at 5826 bytes/sec], 627979 bytes transferred using HTTP compression in 3 files, ratio 32%
+(3 errors, 3 warnings, 0 messages)
