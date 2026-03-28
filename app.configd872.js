@@ -1,1 +1,0 @@
-window.CONFIG=Object.freeze({"VITE_API_URL":"https://api.dmgameapi.com","VITE_BASE_LANGUAGE":"en","VITE_BASE_AREACODE":"","VITE_BASE_DOLLARSIGN":"","VITE_BASE_LANGUAGES":"en","VITE_BASE_PROJECTNAME":"ar065","VITE_BASE_CURRENCY":"","VITE_BASE_UPPERORLOWER":"0","VITE_HOME":"public3Home","VITE_MAINCOLOR":"public3Dmwin","BASE_URL":"/","MODE":"production","DEV":true,"PROD":false});
